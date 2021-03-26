@@ -36,5 +36,6 @@ public class LoginTestCRM extends BaseClass {
 	public void validateTitle()
 	{
 		Assert.assertTrue(true);
+		
 	}
 }
