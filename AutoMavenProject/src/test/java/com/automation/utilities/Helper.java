@@ -23,7 +23,7 @@ public class Helper {
 	} catch (IOException e) {
 		
 
-		System.out.println("Unable to capture screenshot...");
+		System.out.println("Unable to capture screenshot.....");
 	}
 	
 	}
